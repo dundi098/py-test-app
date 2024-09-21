@@ -1,6 +1,6 @@
 import unittest
 from multiply import multiplication
-class MultiplyTestcase(unittest.Test case):
+class MultiplyTestcase(unittest.Testcase):
   
   def test_1(self):
 
